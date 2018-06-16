@@ -90,3 +90,33 @@ a {
 .navBack {
     background-color: #fffaff;
 }
+
+.rl {
+    background-color: rgba(255, 255, 255, 0.73);
+}
+
+.fiveQs {
+    font-size: 70%;
+    display: inline-block;
+}
+
+.answers {
+    font-size: 50%;
+    display: inline-block;
+}
+
+.rd {
+    background-color: rgba(0, 0, 0, 0.10);
+}
+
+.sm-space {
+    height: 10px;
+}
+
+.md-space {
+    height: 20px;
+}
+
+.lg-space {
+    height: 30px;
+}
