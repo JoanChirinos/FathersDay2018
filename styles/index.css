@@ -3,7 +3,8 @@
     src: url('/fonts/fcb-webfont.eot');
     src: url('/fonts/fcb-webfont.woff2') format('woff2'),
          url('/fonts/fcb-webfont.woff') format('woff'),
-         url('/fonts/fcb-webfont.ttf') format('ttf');
+         url('/fonts/fcb-webfont.ttf') format('ttf'),
+         url('/fonts/fcb-webfont.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 
