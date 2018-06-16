@@ -26,17 +26,17 @@ h4 {
 
 .rotate {
     
-    transform:rotate(45deg);
+    transform:rotate(-5deg);
     
     /* Safari */
-    -webkit-transform: rotate(-45deg);
+    -webkit-transform: rotate(-5deg);
 
     /* Firefox */
-    -moz-transform: rotate(-45deg);
+    -moz-transform: rotate(-5deg);
 
     /* IE */
-    -ms-transform: rotate(-45deg);
+    -ms-transform: rotate(-5deg);
 
     /* Opera */
-    -o-transform: rotate(-45deg);
+    -o-transform: rotate(-5deg);
 }
