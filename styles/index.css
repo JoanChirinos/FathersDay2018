@@ -78,3 +78,15 @@ h4 {
 img {
     height: 26px
 }
+
+a {
+    font-size: 40%;
+}
+
+.brand {
+    font-size: 50%;
+}
+
+.navBack {
+    background-color: #fffaff;
+}
