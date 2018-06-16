@@ -41,3 +41,11 @@ h4 {
     /* Opera */
     -o-transform: rotate(-10deg);
 }
+
+.bottom {
+    font-size: 50%;
+}
+
+img {
+    height: 26px
+}
