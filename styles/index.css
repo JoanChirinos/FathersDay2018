@@ -88,7 +88,7 @@ a {
 }
 
 .navBack {
-    background-color: #fffaff;
+    background-color: rgba(255, 250, 255, 0.95);
 }
 
 .rl {
@@ -119,4 +119,8 @@ a {
 
 .lg-space {
     height: 30px;
+}
+
+.block-text {
+    font-size: 35%;
 }
