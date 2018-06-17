@@ -13,9 +13,11 @@
 body {
     font-family: Georgia;
     font-size: 300%;
+    background-image: url(../heart.png);
+    background-repeat: repeat;
 }
 
-.background {
+/*.background {
     background-image: url(../heart.svg);
     left: 0;
     right: 0;
@@ -25,6 +27,7 @@ body {
     margin: 0;
     z-index: -1;
     position: absolute;
+    background-repeat: repeat;
     
     
     -webkit-filter: opacity(10%);
@@ -32,7 +35,7 @@ body {
     -o-filter: opacity(10%);
     -ms-filter: opacity(10%);
     filter: opacity(10%);
-}
+}*/
 
 .rest {
     z-index: 1;
